@@ -1,2 +1,2 @@
-4-global_variables
-#!/bin/bash printenv
+#!/bin/bash
+printenv
